@@ -1,4 +1,4 @@
-## Olá meu nome é Bruno Firmiano, sou Software Engineer!
+## Olá meu nome é Bruno Firmiano, sou Front end Developer!
 <div align="center">
   <a href="https://github.com/bruninhomf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruninhomf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
